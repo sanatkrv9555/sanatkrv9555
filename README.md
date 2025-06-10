@@ -1,4 +1,7 @@
-# 👋 Hi there, I'm Sanat Kumar Verma! | Final Year BTech Student at G.L Bajaj College
+#                               Hi there, I'm Sanat Kumar Verma! 👋
+
+Final Year BTech CSE Student | Passionate about Problem Solving & Full Stack Development | Always Learning and Building
+
 
 🎓 **B.Tech in Computer Science & Engineering**  
 G. L Bajaj Institute of Technology and Management (2022–2026)  

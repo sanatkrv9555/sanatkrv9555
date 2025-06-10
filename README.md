@@ -71,13 +71,14 @@ I enjoy turning complex challenges into elegant, user-friendly solutions. From c
 
 ## 📈 GitHub Stats
 
-![Sanat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanatkv9555&show_icons=true&theme=radical&hide_title=true)
+![Sanat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanatkrv9555&show_icons=true&theme=radical&hide_title=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanatkrv9555&layout=compact&theme=radical)
 
 ---
 
 ## 🤝 Let's Connect!
 Feel free to reach out for collaboration, project discussions, or tech talks!  
+
 📬 **Email:** prasunverma2020@gmail.com | 
 
 ---

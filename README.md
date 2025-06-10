@@ -1,11 +1,11 @@
 #                               Hi there, I'm Sanat Kumar Verma! 👋
 
-Final Year BTech CSE Student | Passionate about Problem Solving & Full Stack Development | Always Learning and Building
+Final Year BTech CSE Student | Passionate about Problem Solving & Full Stack Development  | Always Learning and Building
 
 
 🎓 **B.Tech in Computer Science & Engineering**  
 G. L Bajaj Institute of Technology and Management (2022–2026)  
-📍 Greater Noida | 📧 csefw2203@glbitm.ac.in | 📱 +91 9555340511  
+📍 Greater Noida | 📧 csefw2203@glbitm.ac.in | prasunverma2020@gmail.com
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/sanat-kumar-verma-3bb2bb272/) 
 [![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?logo=github)](https://github.com/sanatkrv9555) 
@@ -71,14 +71,14 @@ I enjoy turning complex challenges into elegant, user-friendly solutions. From c
 
 ## 📈 GitHub Stats
 
-![Sanat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github&show_icons=true&theme=radical&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github&layout=compact&theme=radical)
+![Sanat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanatkv9555&show_icons=true&theme=radical&hide_title=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanatkrv9555&layout=compact&theme=radical)
 
 ---
 
 ## 🤝 Let's Connect!
 Feel free to reach out for collaboration, project discussions, or tech talks!  
-📬 **Email:** csefw2203@glbitm.ac.in | 📱 **Phone:** +91 9555340511  
+📬 **Email:** prasunverma2020@gmail.com | 
 
 ---
 

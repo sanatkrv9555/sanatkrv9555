@@ -1,12 +1,12 @@
-# 👋 Hi there, I'm Sanat Kumar Verma!
+# 👋 Hi there, I'm Sanat Kumar Verma! | Final Year BTech Student at G.L Bajaj College
 
 🎓 **B.Tech in Computer Science & Engineering**  
 G. L Bajaj Institute of Technology and Management (2022–2026)  
 📍 Greater Noida | 📧 csefw2203@glbitm.ac.in | 📱 +91 9555340511  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/your-link) 
-[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?logo=github)](https://github.com/your-github) 
-[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?logo=hackerrank)](https://www.hackerrank.com/your-hackerrank)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/sanat-kumar-verma-3bb2bb272/) 
+[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?logo=github)](https://github.com/sanatkrv9555) 
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?logo=hackerrank)](https://www.hackerrank.com/profile/csefw2203)
 
 ---
 
@@ -35,7 +35,7 @@ I enjoy turning complex challenges into elegant, user-friendly solutions. From c
 
 ## 💻 Projects
 
-### 🔹 [Vendors Help](https://github.com/your-repo-link)
+### 🔹 [Vendors Help](https://github.com/sanatkrv9555/VendorsHelp)
 *Hyperlocal Digital Platform Connecting Local Vendors*  
 **Tech:** HTML5, CSS3, JavaScript, Node.js, Express.js, Socket.io, Multer, SQL, Google APIs  
 - Built a scalable platform to connect small local vendors with nearby customers using location-based product discovery.
@@ -43,7 +43,7 @@ I enjoy turning complex challenges into elegant, user-friendly solutions. From c
 
 ---
 
-### 🔹 [Real-Time Book Search & Recommendation Engine](https://github.com/your-repo-link)
+### 🔹 [Real-Time Book Search & Recommendation Engine](https://github.com/sanatkrv9555/searchEngine)
 *High-Performance Search Engine in C++*  
 **Tech:** C++, Trie, STL, File I/O, OOPs  
 - Developed a **prefix-based search engine** with autocomplete and recommendation features using Trie and advanced DS.
@@ -58,7 +58,7 @@ I enjoy turning complex challenges into elegant, user-friendly solutions. From c
 ---
 
 ## 🏆 Achievements
-- **600+ coding problems** solved across LeetCode, GeeksforGeeks, HackerRank.
+- **+ coding problems** Solved good number of problems across LeetCode, GeeksforGeeks, HackerRank.
 - **3rd Runner-Up** – BITS Pilani API Hackathon.
 - **1st Runner-Up** – Digital Art Competition at GLBITM.
 - Active participant in **LeetCode Weekly/ Biweekly contests**.
@@ -81,35 +81,3 @@ Feel free to reach out for collaboration, project discussions, or tech talks!
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Hi there I am Sanat Kumar Verma
-
-<!--
-**sanatkrv9555/sanatkrv9555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
